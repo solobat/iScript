@@ -11,7 +11,15 @@
     "vitest": "^1.3.1"
   },
   "name": "iscript",
-  "version": "0.1.0",
+  "bugs": {
+    "url": "https://github.com/solobat/iScript/issues"
+  },
+  "homepage": "https://github.com/solobat/iScript#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solobat/iScript.git"
+  },
+  "version": "0.1.1",
   "main": "dist/index.js",
   "directories": {
     "test": "test"
